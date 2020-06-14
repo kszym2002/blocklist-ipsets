@@ -1,0 +1,42 @@
+[
+	{
+		"code": "BG",
+		"value": 7
+	},
+	{
+		"code": "BR",
+		"value": 16
+	},
+	{
+		"code": "CA",
+		"value": 15
+	},
+	{
+		"code": "DE",
+		"value": 14
+	},
+	{
+		"code": "FR",
+		"value": 21
+	},
+	{
+		"code": "HK",
+		"value": 1
+	},
+	{
+		"code": "LT",
+		"value": 11
+	},
+	{
+		"code": "NL",
+		"value": 5
+	},
+	{
+		"code": "TR",
+		"value": 12
+	},
+	{
+		"code": "US",
+		"value": 9
+	}
+]

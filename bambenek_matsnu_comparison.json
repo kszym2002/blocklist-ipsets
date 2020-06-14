@@ -1,0 +1,26 @@
+[
+	{
+		"name": "bambenek_simda",
+		"category": "malware",
+		"ips": 141,
+		"common": 1
+	},
+	{
+		"name": "coinbl_hosts",
+		"category": "organizations",
+		"ips": 9107,
+		"common": 1
+	},
+	{
+		"name": "coinbl_hosts_browser",
+		"category": "organizations",
+		"ips": 850,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_ads",
+		"category": "organizations",
+		"ips": 886709,
+		"common": 1
+	}
+]
